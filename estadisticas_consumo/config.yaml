@@ -1,0 +1,10 @@
+name: Estadísticas de Consumo
+version: "1.0"
+slug: estadisticas_consumo
+description: Exporta estadísticas de consumo desde InfluxDB a JSON
+startup: once
+boot: auto
+homeassistant_api: false
+host_network: true
+schema: {}
+options: {}
